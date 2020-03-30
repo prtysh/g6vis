@@ -1,0 +1,502 @@
+[
+    {
+      "Dictionary entry title": "CRISPR",
+      "Entry ID number": 4,
+      "Link": "https://en.wikipedia.org/wiki/CRISPR",
+      "tag1": "genetics",
+      "tag2": "futures",
+      "tag3": "genetically modified cows",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "jiankui",
+      "Entry ID number": 4,
+      "Link": "https://en.wikipedia.org/wiki/He_Jiankui_affair",
+      "tag1": "genetics",
+      "tag2": "ethics",
+      "tag3": "science",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "geneedit",
+      "Entry ID number": 4,
+      "Link": "https://www.foreignaffairs.com/articles/2018-04-10/gene-editing-good",
+      "tag1": "development",
+      "tag2": "philanthropy",
+      "tag3": "futures",
+      "tag4": "ethics",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "Long About Text",
+      "Entry ID number": 6,
+      "Link": "https://www.youtube.com/watch?v=oOznwUEE9T8",
+      "tag1": "Human",
+      "tag2": "Intelligence",
+      "tag3": "nonhuman",
+      "tag4": "enlightenment",
+      "tag5": "transformation"
+    },
+    {
+      "Dictionary entry title": "generous",
+      "Entry ID number": 6,
+      "Link": "https://medium.com/schemadesignstudio/gist-visualizing-collections-using-generous-interfaces-b9da44341c66",
+      "tag1": "interface",
+      "tag2": "design",
+      "tag3": "website",
+      "tag4": "knowledge",
+      "tag5": "generous"
+    },
+    {
+      "Dictionary entry title": "jstor",
+      "Entry ID number": 6,
+      "Link": "https://www.jstor.org/stable/3178066?seq=1",
+      "tag1": "situated",
+      "tag2": "knowledge",
+      "tag3": "haraway",
+      "tag4": "science",
+      "tag5": "feminism"
+    },
+    {
+      "Dictionary entry title": "monoskop",
+      "Entry ID number": 6,
+      "Link": "https://monoskop.org/log/?p=19995",
+      "tag1": "situated",
+      "tag2": "knowledge",
+      "tag3": "mushrooms",
+      "tag4": "relations",
+      "tag5": "infrastructure"
+    },
+    {
+      "Dictionary entry title": "sagepub",
+      "Entry ID number": 6,
+      "Link": "https://journals.sagepub.com/doi/abs/10.1177/0306312713509704",
+      "tag1": "japan",
+      "tag2": "robotics",
+      "tag3": "infrastructure",
+      "tag4": "kansei",
+      "tag5": "culture"
+    },
+    {
+      "Dictionary entry title": "wbject",
+      "Entry ID number": 6,
+      "Link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118766804.wbiect220",
+      "tag1": "posthumanism",
+      "tag2": "human",
+      "tag3": "knowledge",
+      "tag4": "non-human",
+      "tag5": "transformation"
+    },
+    {
+      "Dictionary entry title": "alexw",
+      "Entry ID number": 6,
+      "Link": "https://sites.google.com/site/alexweheliye/",
+      "tag1": "posthumanism",
+      "tag2": "black studies",
+      "tag3": "racializing",
+      "tag4": "assemblages",
+      "tag5": "situated"
+    },
+    {
+      "Dictionary entry title": "realhuman",
+      "Entry ID number": 6,
+      "Link": "https://thenewinquiry.com/real-human-being/",
+      "tag1": "posthumanism",
+      "tag2": "human",
+      "tag3": "black studies",
+      "tag4": "feminism",
+      "tag5": "racializing"
+    },
+    {
+      "Dictionary entry title": "Rules VS Reason",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/Frankenstein",
+      "tag1": "literature",
+      "tag2": "ethics",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "sagepub2",
+      "Entry ID number": 10,
+      "Link": "https://journals.sagepub.com/doi/10.1177/026327602761899246",
+      "tag1": "philosophy",
+      "tag2": "morality",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "yt1",
+      "Entry ID number": 10,
+      "Link": "https://www.youtube.com/watch?v=6xErFnyjMAA",
+      "tag1": "history",
+      "tag2": "science",
+      "tag3": "rules",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "episteme",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/Episteme",
+      "tag1": "philosophy",
+      "tag2": "sociology",
+      "tag3": "history",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "space",
+      "Entry ID number": 10,
+      "Link": "https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space/",
+      "tag1": "algorithms",
+      "tag2": "AI",
+      "tag3": "philosophy",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "demon",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/Laplace%27s_demon",
+      "tag1": "determinism",
+      "tag2": "cartesianism",
+      "tag3": "statistics",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "transhuman",
+      "Entry ID number": 10,
+      "Link": "https://www.e-flux.com/journal/98/257322/sensitive-consciousness-and-time-against-the-transhumanist-utopia/",
+      "tag1": "futures",
+      "tag2": "posthumanism",
+      "tag3": "time",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "macmillan",
+      "Entry ID number": 10,
+      "Link": "https://us.macmillan.com/books/9780374715236",
+      "tag1": "AI",
+      "tag2": "machine learning",
+      "tag3": "neural networks",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "induction",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/Problem_of_induction",
+      "tag1": "philosophy",
+      "tag2": "mathematics",
+      "tag3": "statistics",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "understanding",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding",
+      "tag1": "enlightenment",
+      "tag2": "empiricism",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "yt2",
+      "Entry ID number": 10,
+      "Link": "https://www.youtube.com/watch?v=ys9gCR3PFF4",
+      "tag1": "AI",
+      "tag2": "ethics",
+      "tag3": "philosophy",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "predictive",
+      "Entry ID number": 10,
+      "Link": "https://en.wikipedia.org/wiki/Predictive_policing",
+      "tag1": "ethics",
+      "tag2": "AI",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "federak",
+      "Entry ID number": 10,
+      "Link": "https://cyber.harvard.edu/story/2020-02/why-we-need-federal-privacy-law",
+      "tag1": "privacy",
+      "tag2": "ethics",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "Perfection",
+      "Entry ID number": 11,
+      "Link": "https://www.google.com/search?q=artificial+intelligence",
+      "tag1": "AI",
+      "tag2": "image of technology",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "haraway",
+      "Entry ID number": 11,
+      "Link": "https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf",
+      "tag1": "feminism",
+      "tag2": "philosophy",
+      "tag3": "cyborg",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "jstor2",
+      "Entry ID number": 11,
+      "Link": "https://www.jstor.org/stable/j.ctvc77bcc",
+      "tag1": "anthropology",
+      "tag2": "environment",
+      "tag3": "survival",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "einsteign",
+      "Entry ID number": 11,
+      "Link": "http://thequotes.in/we-cannot-solve-our-problems-with-the-same-thinking-we-used-when-we-created-them-albert-einstein/",
+      "tag1": "philosophy of science",
+      "tag2": "",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "design",
+      "Entry ID number": 11,
+      "Link": "https://www.dukeupress.edu/designs-for-the-pluriverse",
+      "tag1": "design",
+      "tag2": "anthropology",
+      "tag3": "indigenous",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "Emerging Environments",
+      "Entry ID number": 12,
+      "Link": "https://www.youtube.com/watch?v=zKzeknnztDo",
+      "tag1": "video game",
+      "tag2": "Civilization",
+      "tag3": "scouting",
+      "tag4": "strategy game",
+      "tag5": "game engine"
+    },
+    {
+      "Dictionary entry title": "envirn",
+      "Entry ID number": 12,
+      "Link": "https://www.etymonline.com/word/environ",
+      "tag1": "etymology",
+      "tag2": "surround",
+      "tag3": "use",
+      "tag4": "language",
+      "tag5": "meaning"
+    },
+    {
+      "Dictionary entry title": "ment",
+      "Entry ID number": 12,
+      "Link": "https://www.etymonline.com/word/-ment",
+      "tag1": "etymology",
+      "tag2": "process",
+      "tag3": "use",
+      "tag4": "language",
+      "tag5": "meaning"
+    },
+    {
+      "Dictionary entry title": "computation",
+      "Entry ID number": 12,
+      "Link": "https://www.academia.edu/39635788/3000_Years_of_Algorithmic_Rituals_The_Emergence_of_AI_from_the_Computation_of_Space",
+      "tag1": "intelligence",
+      "tag2": "algorithm",
+      "tag3": "process",
+      "tag4": "media theory",
+      "tag5": "ritual"
+    },
+    {
+      "Dictionary entry title": "turing",
+      "Entry ID number": 12,
+      "Link": "https://www.csee.umbc.edu/courses/471/papers/turing.pdf",
+      "tag1": "Imitation",
+      "tag2": "Machine",
+      "tag3": "Human",
+      "tag4": "Gender",
+      "tag5": "Thinking machines"
+    },
+    {
+      "Dictionary entry title": "chinese",
+      "Entry ID number": 12,
+      "Link": "https://en.wikipedia.org/wiki/Chinese_room",
+      "tag1": "Computer Programm",
+      "tag2": "Imitation",
+      "tag3": "Syntax",
+      "tag4": "Semantics",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "cyber",
+      "Entry ID number": 12,
+      "Link": "https://monoskop.org/images/5/50/Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf",
+      "tag1": "Posthuman",
+      "tag2": "Virtual",
+      "tag3": "Body",
+      "tag4": "Gender",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "yt3",
+      "Entry ID number": 12,
+      "Link": "https://www.youtube.com/watch?v=dFwRNy-eIkU",
+      "tag1": "Media theory",
+      "tag2": "Media",
+      "tag3": "Technical Environment",
+      "tag4": "Message",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "bias",
+      "Entry ID number": 12,
+      "Link": "https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/",
+      "tag1": "AI",
+      "tag2": "Bias",
+      "tag3": "intersectional",
+      "tag4": "Race",
+      "tag5": "Disability"
+    },
+    {
+      "Dictionary entry title": "collective",
+      "Entry ID number": 12,
+      "Link": "https://web.stanford.edu/~dmgordon/articles/doi/10.1016-j.cels.2016.10.013/Evolution%20of%20the%20algorithms%20for%20collective%20behavior.pdf",
+      "tag1": "ant",
+      "tag2": "algorithm",
+      "tag3": "collective behaviour",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "trees",
+      "Entry ID number": 12,
+      "Link": "https://e360.yale.edu/features/exploring_how_and_why_trees_talk_to_each_other",
+      "tag1": "mycelium",
+      "tag2": "forest",
+      "tag3": "mycology",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "realstory",
+      "Entry ID number": 12,
+      "Link": "https://slate.com/culture/2012/11/ursula-le-guins-the-unreal-and-the-real-collected-stories-reviewed.html",
+      "tag1": "Science fiction",
+      "tag2": "translation",
+      "tag3": "language",
+      "tag4": "animism",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "Commitments to Deathlessness",
+      "Entry ID number": 14,
+      "Link": "https://edgeeffects.net/wp-content/uploads/2019/06/PlantationoceneReflections_Haraway_Tsing.pdf",
+      "tag1": "Plantationocene",
+      "tag2": "Time",
+      "tag3": "",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "materialism",
+      "Entry ID number": 14,
+      "Link": "https://en.wikipedia.org/wiki/Cultural_materialism_(anthropology)",
+      "tag1": "Surplus of Food, Bodies & Rupture",
+      "tag2": "Pyramids",
+      "tag3": "Space",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "cat",
+      "Entry ID number": 14,
+      "Link": "https://en.wikipedia.org/wiki/Grumpy_Cat",
+      "tag1": "Animal Gods",
+      "tag2": "Pyramids",
+      "tag3": "Phantasy",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "crash",
+      "Entry ID number": 14,
+      "Link": "https://en.wikipedia.org/wiki/Crash_(Ballard_novel)",
+      "tag1": "Industrialisation, Highways, Mechanical Wars",
+      "tag2": "Vast Concrete Urbanity",
+      "tag3": "Space",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "terminator",
+      "Entry ID number": 14,
+      "Link": "https://en.wikipedia.org/wiki/The_Terminator",
+      "tag1": "Crash & Cyborgs",
+      "tag2": "Vast Concrete Urbanity",
+      "tag3": "Phantasy",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "kevin",
+      "Entry ID number": 14,
+      "Link": "https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world",
+      "tag1": "Underground & Ice Desert Server Farms",
+      "tag2": "Global Computation",
+      "tag3": "Space",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "earth",
+      "Entry ID number": 14,
+      "Link": "https://en.wikipedia.org/wiki/Spaceship_Earth",
+      "tag1": "Return to a “pure“ nature",
+      "tag2": "Global Computation",
+      "tag3": "Phantasy",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "history",
+      "Entry ID number": 14,
+      "Link": "theverge.com/a/transhumanism-2015/history-of-transhumanism",
+      "tag1": "Transhumanism, Colonialisation of Deep Space",
+      "tag2": "Singularity To Come",
+      "tag3": "Space",
+      "tag4": "",
+      "tag5": ""
+    },
+    {
+      "Dictionary entry title": "tack",
+      "Entry ID number": 14,
+      "Link": "http://thestack.org",
+      "tag1": "A Snake eating Ist own tail",
+      "tag2": "Singularity To Come",
+      "tag3": "Phantasy",
+      "tag4": "",
+      "tag5": ""
+    }
+  ]
